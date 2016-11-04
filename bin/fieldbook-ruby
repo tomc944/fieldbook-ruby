@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'fieldbook-ruby'
+puts FieldbookRuby.hi(ARGV[0])
