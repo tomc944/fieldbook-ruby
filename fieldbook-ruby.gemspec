@@ -10,4 +10,6 @@ Gem::Specification.new do |s|
   s.files       = ['lib/fieldbook-ruby.rb', 'lib/fieldbook-ruby/translator.rb']
   s.homepage    = 'http://rubygems.org/gems/fieldbook-ruby'
   s.license     = 'MIT'
+
+  s.add_dependency 'unirest', '~> 1.1.2'
 end

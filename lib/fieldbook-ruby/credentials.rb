@@ -1,0 +1,4 @@
+class Fieldbook::Credentials
+  
+
+end
